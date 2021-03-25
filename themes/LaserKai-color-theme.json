@@ -1,10 +1,10 @@
 {
-    "name": "LaserWave",
+    "name": "LaserKai",
     "colors": {
         "focusBorder": "#EB64B9",
         "menu.background": "#27212e",
         "editor.foreground": "#ffffff",
-        "editor.background": "#27212e",
+        "editor.background": "#2d2735",
         "titleBar.activeBackground": "#27212e",
         "sideBar.background": "#27212e",
         "sideBar.foreground": "#ddd",
@@ -12,7 +12,7 @@
         "sideBarTitle.foreground": "#EB64B9",
         "activityBar.background": "#27212e",
         "activityBar.foreground": "#ddd",
-        "activityBar.activeBorder": "#EB64B9",
+        "activityBar.activeBorder": "#da63ae",
         "activityBarBadge.background": "#EB64B9",
         "statusBar.background": "#EB64B9",
         "statusBar.noFolderBackground": "#EB64B9",
@@ -116,7 +116,7 @@
                 "keyword.import.go"
             ],
             "settings": {
-                "foreground": "#40b4c4"
+                "foreground": "#EB64B9"
             }
         },
         {
@@ -136,7 +136,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#EB64B9"
+                "foreground": "#74dfc4"
             }
         },
         {
@@ -154,7 +154,7 @@
                 "string.other.link.title.markdown"
             ],
             "settings": {
-                "foreground": "#b4dce7"
+                "foreground": "#f5dd70"
             }
         },
         {
@@ -234,7 +234,7 @@
                 "punctuation.comma.dart"
             ],
             "settings": {
-                "foreground": "#716385"
+                "foreground": "#ffe261"
             }
         },
         {
@@ -283,7 +283,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#91889b"
+                "foreground": "#725d88"
             }
         },
         {
@@ -355,7 +355,7 @@
                 "variable.language.dart"
             ],
             "settings": {
-                "foreground": "#ffe261"
+                "foreground": "#EB64B9"
             }
         },
         {
@@ -413,7 +413,7 @@
                 "support.class.dart"
             ],
             "settings": {
-                "foreground": "#a96bc0"
+                "foreground": "#b4dce7"
             }
         },
         {

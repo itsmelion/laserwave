@@ -1,10 +1,8 @@
-# LaserWave
+# LaserKai
 
 An clean 80's synthwave / outrun inspired theme for Visual Studio Code.
 
 ![screenshot](screenshot.png)
-
-** *LaserWave Italic* -- now avaliable **
 
 **Currently supports:**
 
@@ -36,14 +34,7 @@ If you find any missing highlighting or want a new language supported open an is
 | White | #ffffff | normal | Variables |
 | Raisin Black | #27212e | --- | Background |
 
-### *LaserWave Italic*
-
-Italics include:
-
-- Keywords
-- Attributes
-
-## Contributing to LaserWave
+## Contributing to LaserKai
 
 I'm actively supporting this theme so if you open an issue I will respond 😁! If you would like to contribute to the project that is awesome, just please check out the contribution guidelines in the wiki before submitting a PR.
 
