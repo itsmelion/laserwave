@@ -82,7 +82,7 @@ All notable changes to the "laserwave" extension will be documented in this file
 
 ## 1.2.0
 
-- Adding *LaserWave Italic*
+- Adding *LaserKai Italic*
   - New version of theme including italics on keywords and attributes
 - Improvements to **.scss** highlighting
 - Language Updates
