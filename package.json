@@ -1,32 +1,32 @@
 {
-	"name": "laserkai",
-	"displayName": "LaserKai",
-	"description": "Retro outrun syntax theme (but Monokai friendly)",
-	"version": "1.2.11",
-	"publisher": "itsmelion",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/itsmelion/laserwave"
-	},
-	"icon": "laserwave-logo.png",
-	"galleryBanner": {
-		"color": "#242029",
-		"theme": "dark"
-	},
-	"engines": {
-		"vscode": "^1.25.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "LaserKai",
-				"uiTheme": "vs-dark",
-				"path": "./themes/LaserKai-color-theme.json"
-			}
-		]
-	},
-	"license": "MIT"
+  "name": "laserkai",
+  "displayName": "LaserKai",
+  "description": "Retro outrun syntax theme (but Monokai friendly)",
+  "version": "1.4.2",
+  "publisher": "itsmelion",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmelion/laserwave"
+  },
+  "engines": {
+    "vscode": ">=1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LaserKai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LaserKai-color-theme.json"
+      }
+    ]
+  },
+  "icon": "laserwave-logo.png",
+  "galleryBanner": {
+    "color": "#242029",
+    "theme": "dark"
+  },
+  "license": "MIT"
 }
